@@ -1,1 +1,1 @@
-Тестовое задание от Работникова Евгения
+https://maxfarseer.gitbooks.io/redux-course-ru/content/
